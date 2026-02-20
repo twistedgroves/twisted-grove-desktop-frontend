@@ -1,2 +1,2 @@
-About
-Frontend repository for the Twisted groves application
+#About
+The frontend for a mystical application
